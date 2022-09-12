@@ -1,0 +1,51 @@
+body{
+    background-color: whitesmoke;
+    margin: 10px 0px;
+    text-align: center;
+}
+.box{
+    display: inline-block;
+}
+button{
+    margin: 2px 1px;
+    width: 4em;
+    height: 2.5em;
+    border: 1px solid #b9b9b9;
+    background-color: #dadada;
+    color: black;
+}
+input{
+    margin: 10px;
+    line-height: 3em;
+    width: 14em;
+    border: 1px solid rgb(34, 0, 128);
+    background-color: #b9b9b9;
+    color: black;
+    text-align: right;
+}
+#calc{
+    border: 2px solid rgb(45, 19, 92);
+    border-radius: 0.4em;
+    display: inline-block;
+    padding: 20px;
+    margin: 10px;
+    background-color: #dadada;
+}
+#equal{
+    background-color: blue;
+}
+#clear{
+    color: red;
+}
+#division{
+    color: blue ;
+}
+#multiplication{
+    color: blue;
+}
+#subtract{
+    color: blue;
+}
+#add{
+    color: blue;
+}
